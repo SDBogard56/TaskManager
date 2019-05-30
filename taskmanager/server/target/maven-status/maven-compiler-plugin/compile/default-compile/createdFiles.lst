@@ -1,7 +1,7 @@
-org\polaroid\taskmaster\controller\ProjectController.class
-org\polaroid\taskmaster\TaskmasterApplication.class
-org\polaroid\taskmaster\controller\TaskController.class
-org\polaroid\taskmaster\repository\TaskRepository.class
-org\polaroid\taskmaster\model\Project.class
-org\polaroid\taskmaster\repository\ProjectRepository.class
-org\polaroid\taskmaster\model\Task.class
+org\bogard\taskmanager\model\Project.class
+org\bogard\taskmanager\TaskManagerApplication.class
+org\bogard\taskmanager\controller\ProjectController.class
+org\bogard\taskmanager\model\Task.class
+org\bogard\taskmanager\controller\TaskController.class
+org\bogard\taskmanager\repository\ProjectRepository.class
+org\bogard\taskmanager\repository\TaskRepository.class

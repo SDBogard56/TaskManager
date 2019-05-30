@@ -1,7 +1,7 @@
-C:\Users\shane\Projects\taskmaster\server\src\main\java\org\polaroid\taskmaster\controller\ProjectController.java
-C:\Users\shane\Projects\taskmaster\server\src\main\java\org\polaroid\taskmaster\model\Project.java
-C:\Users\shane\Projects\taskmaster\server\src\main\java\org\polaroid\taskmaster\repository\TaskRepository.java
-C:\Users\shane\Projects\taskmaster\server\src\main\java\org\polaroid\taskmaster\model\Task.java
-C:\Users\shane\Projects\taskmaster\server\src\main\java\org\polaroid\taskmaster\TaskmasterApplication.java
-C:\Users\shane\Projects\taskmaster\server\src\main\java\org\polaroid\taskmaster\controller\TaskController.java
-C:\Users\shane\Projects\taskmaster\server\src\main\java\org\polaroid\taskmaster\repository\ProjectRepository.java
+C:\Users\shane\OneDrive\Projects\TaskManager\taskmanager\server\src\main\java\org\bogard\taskmanager\TaskManagerApplication.java
+C:\Users\shane\OneDrive\Projects\TaskManager\taskmanager\server\src\main\java\org\bogard\taskmanager\model\Project.java
+C:\Users\shane\OneDrive\Projects\TaskManager\taskmanager\server\src\main\java\org\bogard\taskmanager\model\Task.java
+C:\Users\shane\OneDrive\Projects\TaskManager\taskmanager\server\src\main\java\org\bogard\taskmanager\repository\ProjectRepository.java
+C:\Users\shane\OneDrive\Projects\TaskManager\taskmanager\server\src\main\java\org\bogard\taskmanager\controller\ProjectController.java
+C:\Users\shane\OneDrive\Projects\TaskManager\taskmanager\server\src\main\java\org\bogard\taskmanager\controller\TaskController.java
+C:\Users\shane\OneDrive\Projects\TaskManager\taskmanager\server\src\main\java\org\bogard\taskmanager\repository\TaskRepository.java
